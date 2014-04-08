@@ -19,4 +19,9 @@
 >>>>>>> 670f48a9f8f08bac302f735a0f2a0b9768454c6f
 >>>>>>> Stashed changes
 
+<<<<<<< Updated upstream
+8-4-14 7
+=======
+<<<<<<< HEAD
+8-4-14 8
 8-4-14 7
